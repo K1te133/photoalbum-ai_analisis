@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/cats">
+        <file>images/cat1.jpg</file>
+        <file>images/cat2.jpg</file>
+        <file>images/cat3.jpg</file>
+        <file>images/cat4.jpg</file>
+        <file>images/cat5.jpg</file>
+        <file>images/cat6.jpg</file>
+        <file>images/cat7.jpg</file>
+        <file>images/cat8.jpg</file>
+        <file>images/cat9.jpg</file>
+        <file>images/cat10.jpg</file>
+        <file>images/cat11.jpg</file>
+        <file>images/cat12.jpg</file>
+        <file>images/cat13.jpg</file>
+        <file>images/cat14.jpg</file>
+        <file>images/cat15.jpg</file>
+        <file>images/cat16.jpg</file>
+        <file>images/cat17.jpg</file>
+        <file>images/cat18.jpg</file>
+        <file>images/cat19.jpg</file>
+        <file>images/cat20.jpg</file>
+        <file>images/cat21.jpg</file>
+        <file>images/cat22.jpg</file>
+        <file>images/cat23.jpg</file>
+        <file>images/cat24.jpg</file>
+        <file>images/cat25.jpg</file>
+    </qresource>
+    <qresource prefix="/butons">
+        <file>images/chevron_l.png</file>
+        <file>images/chevron_r.png</file>
+    </qresource>
+</RCC>
